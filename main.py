@@ -1,3 +1,9 @@
+
+
+# github için deneme
+#deneme
+
+
 import json
 
 import matplotlib.pyplot as plt
