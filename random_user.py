@@ -1,6 +1,3 @@
-# burada da github için deneme
-# tekrar deneme
-
 
 
 

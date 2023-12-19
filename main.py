@@ -1,9 +1,4 @@
 
-
-# github için deneme
-#deneme
-
-
 import json
 
 import matplotlib.pyplot as plt
@@ -15,23 +10,9 @@ seed = 0
 random.seed(seed)
 np.random.seed(seed)
 
+import User_Class
+import Veri_Yapilari
 
-class User:
-    def __init__(self, username, name, followers_count, following_count, language, region, tweets, following, followers):
-        self.username = username
-        self.name = name
-        self.followers_count = followers_count
-        self.following_count = following_count
-        self.language = language
-        self.region = region
-        self.tweets = tweets
-        self.following = following
-        self.followers = followers
-
-    def __str__(self):
-        return f"User(username={self.username}, name={self.name}, followers_count={self.followers_count}, \n" \
-               f"following_count={self.following_count}, language={self.language}, region={self.region}, \n" \
-               f"tweets={self.tweets}, following={self.following}, followers={self.followers})\n"
 
 # Read the JSON file with user data
 file_path = 'C:/Users/Abdullah Amin/PycharmProjects/pythonProject/User100.json'
@@ -40,11 +21,11 @@ with open(file_path, 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
 
 # Create a dictionary (hash table) to store users using usernames as keys
-user_dict = {}
+user_dict = Veri_Yapilari.MyDict()
 
 # Convert the data to User objects and add them to the hash table
 for user_data in data:
-    user = User(
+    user = User_Class.User(
         username=user_data['username'],
         name=user_data['name'],
         followers_count=user_data['followers_count'],
@@ -88,8 +69,4 @@ nx.draw(G, pos, node_color="red", node_size=10)
 #plt.margins(0.2)
 plt.show()
 
-
-#G.add_node(user_dict(user.username))
-#G.add_node(user_dict(user.following))
-#G.add_node(user_dict(user.followers))
 
