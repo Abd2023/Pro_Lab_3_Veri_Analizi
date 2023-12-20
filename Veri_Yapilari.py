@@ -24,6 +24,9 @@ class MyDict:
     def __getitem__(self, key):
         return self.get(key)
 
+    def items(self):
+        return zip(self.keys, self.values)
+
 
 
 
