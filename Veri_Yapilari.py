@@ -3,11 +3,11 @@ class MyDict:
         self.keys = []
         self.values = []
 
-    def insert(self, key, value):
+    def elemanEkle(self, key, value):
         self.keys.append(key)
         self.values.append(value)
 
-    def get(self, key):
+    def al(self, key):
         if key in self.keys:
             index = self.keys.index(key)
             return self.values[index]

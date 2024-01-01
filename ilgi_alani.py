@@ -11,5 +11,5 @@ def find_interests(tweets):
     common_words = Counter(words)
     return common_words.most_common(10)
 
-# Suppose 'user' is a User object
+
 

@@ -1,0 +1,700 @@
+Kullanıcı Adı: ali
+İlgi Alanı: gaming
+Ortak Kelimeler:
+gamerlife: 3 kere
+videogames: 3 kere
+gamergirl: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: mohammad
+İlgi Alanı: science
+Ortak Kelimeler:
+scientific: 4 kere
+scientists: 3 kere
+argue: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: bdelgado
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+wellbeing: 3 kere
+ground: 2 kere
+mentalhealth: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: tammymiller
+İlgi Alanı: architecture
+Ortak Kelimeler:
+architecturedaily: 4 kere
+modernarchitecture: 2 kere
+month: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: sullivanmargaret
+İlgi Alanı: gaming
+Ortak Kelimeler:
+gamingsetup: 6 kere
+gamerlife: 3 kere
+particularly: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: maria41
+İlgi Alanı: travel
+Ortak Kelimeler:
+vacation: 5 kere
+wanderlust: 3 kere
+democratic: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: rodney68
+İlgi Alanı: fashion
+Ortak Kelimeler:
+style: 5 kere
+fashionaddict: 3 kere
+build: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: campbellomar
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+selfcare: 4 kere
+mindfulness: 3 kere
+operation: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: nancytodd
+İlgi Alanı: architecture
+Ortak Kelimeler:
+architecturelovers: 3 kere
+modernarchitecture: 3 kere
+architecturedaily: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: kylie58
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+fitnessgoals: 4 kere
+workoutinspiration: 3 kere
+fitmotivation: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: virginiacline
+İlgi Alanı: history
+Ortak Kelimeler:
+historygeek: 4 kere
+historical: 3 kere
+historicalplaces: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: moorelindsey
+İlgi Alanı: pets
+Ortak Kelimeler:
+petlovers: 3 kere
+petsofinstagram: 3 kere
+picture: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: yrussell
+İlgi Alanı: fashion
+Ortak Kelimeler:
+fashionista: 4 kere
+ootd: 3 kere
+better: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: charlescarr
+İlgi Alanı: pets
+Ortak Kelimeler:
+petlovers: 4 kere
+furryfriends: 3 kere
+petsofinstagram: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: nhansen
+İlgi Alanı: movies
+Ortak Kelimeler:
+movienight: 4 kere
+available: 2 kere
+cinema: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: lisawolfe
+İlgi Alanı: photography
+Ortak Kelimeler:
+visualart: 4 kere
+photography: 4 kere
+since: 1 kere
+--------------------------------------------------
+Kullanıcı Adı: gamblemegan
+İlgi Alanı: fitness
+Ortak Kelimeler:
+wellness: 3 kere
+remain: 2 kere
+late: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: sclark
+İlgi Alanı: food
+Ortak Kelimeler:
+delicious: 3 kere
+poor: 2 kere
+culinary: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: kimberly97
+İlgi Alanı: fitness
+Ortak Kelimeler:
+wellness: 3 kere
+fitfam: 3 kere
+healthyliving: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jboyd
+İlgi Alanı: food
+Ortak Kelimeler:
+delicious: 3 kere
+yum: 3 kere
+culinary: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: williamsmichael
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+wellbeing: 4 kere
+selfcare: 4 kere
+morning: 1 kere
+--------------------------------------------------
+Kullanıcı Adı: sharongood
+İlgi Alanı: history
+Ortak Kelimeler:
+timeless: 3 kere
+historybuff: 3 kere
+concern: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: gonzalezmichael
+İlgi Alanı: art
+Ortak Kelimeler:
+artlovers: 5 kere
+artgallery: 3 kere
+magazine: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: kbyrd
+İlgi Alanı: cooking
+Ortak Kelimeler:
+homechef: 3 kere
+culinaryart: 3 kere
+foodgasm: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: mmarquez
+İlgi Alanı: pets
+Ortak Kelimeler:
+animallove: 4 kere
+petcare: 2 kere
+furryfriends: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: pewing
+İlgi Alanı: books
+Ortak Kelimeler:
+bestsellers: 4 kere
+booklover: 3 kere
+close: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: ykelly
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+mindfulness: 5 kere
+selfcare: 3 kere
+large: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: fhernandez
+İlgi Alanı: books
+Ortak Kelimeler:
+bestsellers: 4 kere
+bookworm: 3 kere
+readinglist: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: clee
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+wellbeing: 3 kere
+mindfulness: 2 kere
+selfcare: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jonathan17
+İlgi Alanı: nature
+Ortak Kelimeler:
+wildlife: 5 kere
+outdoors: 2 kere
+environment: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: molly95
+İlgi Alanı: nature
+Ortak Kelimeler:
+naturelover: 5 kere
+really: 2 kere
+on: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jamie18
+İlgi Alanı: food
+Ortak Kelimeler:
+culinary: 4 kere
+right: 2 kere
+delicious: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: crystalorozco
+İlgi Alanı: photography
+Ortak Kelimeler:
+photooftheday: 4 kere
+photographer: 3 kere
+photography: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: gallowaynicole
+İlgi Alanı: pets
+Ortak Kelimeler:
+petsofinstagram: 4 kere
+eye: 2 kere
+petcare: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: mlynn
+İlgi Alanı: cooking
+Ortak Kelimeler:
+homechef: 3 kere
+cookingathome: 3 kere
+foodgasm: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: eacosta
+İlgi Alanı: history
+Ortak Kelimeler:
+historical: 4 kere
+historybuff: 4 kere
+timeless: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jessicarivera
+İlgi Alanı: food
+Ortak Kelimeler:
+yum: 3 kere
+ago: 2 kere
+delicious: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: kcruz
+İlgi Alanı: fitness
+Ortak Kelimeler:
+fitlife: 3 kere
+exercise: 2 kere
+character: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: connie33
+İlgi Alanı: art
+Ortak Kelimeler:
+modernart: 5 kere
+artgallery: 4 kere
+subject: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: dale86
+İlgi Alanı: food
+Ortak Kelimeler:
+yum: 5 kere
+culinary: 3 kere
+interview: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: halekatrina
+İlgi Alanı: gaming
+Ortak Kelimeler:
+gamergirl: 4 kere
+gamingsetup: 3 kere
+videogames: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: christopherking
+İlgi Alanı: art
+Ortak Kelimeler:
+artistic: 4 kere
+artlovers: 3 kere
+hard: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: klopez
+İlgi Alanı: books
+Ortak Kelimeler:
+booklover: 4 kere
+readinglist: 2 kere
+bookworm: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: carla11
+İlgi Alanı: travel
+Ortak Kelimeler:
+vacation: 3 kere
+wanderlust: 3 kere
+throw: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: charles65
+İlgi Alanı: movies
+Ortak Kelimeler:
+hollywood: 5 kere
+cinema: 3 kere
+moment: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: mccarthychristopher
+İlgi Alanı: sciencefiction
+Ortak Kelimeler:
+futureworld: 5 kere
+scifi: 2 kere
+aliens: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: rebecca24
+İlgi Alanı: books
+Ortak Kelimeler:
+readinglist: 4 kere
+bookworm: 3 kere
+literature: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: hwise
+İlgi Alanı: food
+Ortak Kelimeler:
+foodporn: 4 kere
+delicious: 2 kere
+yum: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: njackson
+İlgi Alanı: movies
+Ortak Kelimeler:
+moviebuff: 4 kere
+filmlover: 3 kere
+small: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jordaneddie
+İlgi Alanı: fitness
+Ortak Kelimeler:
+fitfam: 3 kere
+wellness: 3 kere
+fitlife: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: xcolon
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+fitnessgoals: 4 kere
+healthylifestyle: 3 kere
+suffer: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: figueroaalexandra
+İlgi Alanı: motivation
+Ortak Kelimeler:
+successmindset: 4 kere
+inspiration: 2 kere
+work: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: margaret57
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+wellbeing: 3 kere
+mindfulness: 3 kere
+selflove: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: zimmermandenise
+İlgi Alanı: cooking
+Ortak Kelimeler:
+homechef: 5 kere
+cookingadventures: 2 kere
+evening: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: wolfchristopher
+İlgi Alanı: travel
+Ortak Kelimeler:
+explore: 3 kere
+adventure: 3 kere
+wanderlust: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: gcook
+İlgi Alanı: motivation
+Ortak Kelimeler:
+inspiration: 3 kere
+though: 2 kere
+motivation: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: gilesjade
+İlgi Alanı: music
+Ortak Kelimeler:
+musiclover: 3 kere
+concert: 3 kere
+musicians: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: christine76
+İlgi Alanı: nature
+Ortak Kelimeler:
+naturalbeauty: 5 kere
+naturelover: 3 kere
+type: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jensenchristina
+İlgi Alanı: books
+Ortak Kelimeler:
+bookworm: 4 kere
+bestsellers: 3 kere
+readinglist: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: dwilson
+İlgi Alanı: motivation
+Ortak Kelimeler:
+motivation: 4 kere
+selfimprovement: 3 kere
+inspiration: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: christopher09
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+fitnessgoals: 4 kere
+fitjourney: 2 kere
+fitmotivation: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: davidlarson
+İlgi Alanı: gaming
+Ortak Kelimeler:
+gamingsetup: 3 kere
+gamerlife: 3 kere
+everything: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: zjohnson
+İlgi Alanı: art
+Ortak Kelimeler:
+creative: 4 kere
+artgallery: 2 kere
+purpose: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: ashley74
+İlgi Alanı: motivation
+Ortak Kelimeler:
+motivation: 5 kere
+own: 2 kere
+wind: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: melissa25
+İlgi Alanı: architecture
+Ortak Kelimeler:
+architecturedaily: 3 kere
+architecturaldesign: 3 kere
+build: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: cassandrapage
+İlgi Alanı: architecture
+Ortak Kelimeler:
+archilovers: 3 kere
+marriage: 2 kere
+architecturelovers: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: josephwilliams
+İlgi Alanı: nature
+Ortak Kelimeler:
+naturelover: 7 kere
+environment: 3 kere
+accept: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: greenzachary
+İlgi Alanı: fitness
+Ortak Kelimeler:
+healthyliving: 4 kere
+tree: 2 kere
+government: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: erintaylor
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+healthylifestyle: 3 kere
+fitmotivation: 2 kere
+fitnessgoals: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: rmyers
+İlgi Alanı: food
+Ortak Kelimeler:
+delicious: 4 kere
+foodie: 3 kere
+culinary: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: baileyashley
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+fitjourney: 5 kere
+workoutinspiration: 3 kere
+healthylifestyle: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: michellesosa
+İlgi Alanı: fitnessmotivation
+Ortak Kelimeler:
+workoutinspiration: 3 kere
+fitnessgoals: 3 kere
+fitmotivation: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: shelby90
+İlgi Alanı: fashion
+Ortak Kelimeler:
+trendy: 3 kere
+everybody: 2 kere
+fashionaddict: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: bknapp
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+mindfulness: 4 kere
+selfcare: 3 kere
+fact: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: valeriebrewer
+İlgi Alanı: fashion
+Ortak Kelimeler:
+fashionista: 4 kere
+trendy: 2 kere
+ootd: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: moorepatricia
+İlgi Alanı: nature
+Ortak Kelimeler:
+environment: 3 kere
+naturalbeauty: 3 kere
+wildlife: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: jeffery40
+İlgi Alanı: music
+Ortak Kelimeler:
+musiclover: 3 kere
+musicians: 3 kere
+melody: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: yolandaabbott
+İlgi Alanı: architecture
+Ortak Kelimeler:
+archilovers: 4 kere
+architecturelovers: 3 kere
+modernarchitecture: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: praymond
+İlgi Alanı: photography
+Ortak Kelimeler:
+photography: 3 kere
+capturethemoment: 2 kere
+photographer: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: manntimothy
+İlgi Alanı: photography
+Ortak Kelimeler:
+capturethemoment: 3 kere
+photography: 2 kere
+visualart: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: joel59
+İlgi Alanı: movies
+Ortak Kelimeler:
+hollywood: 4 kere
+hour: 2 kere
+cinema: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: williamgarza
+İlgi Alanı: fashion
+Ortak Kelimeler:
+style: 4 kere
+trendy: 3 kere
+fear: 1 kere
+--------------------------------------------------
+Kullanıcı Adı: ryanwhite
+İlgi Alanı: nature
+Ortak Kelimeler:
+wildlife: 3 kere
+you: 3 kere
+environment: 3 kere
+--------------------------------------------------
+Kullanıcı Adı: harrisjennifer
+İlgi Alanı: fitness
+Ortak Kelimeler:
+exercise: 3 kere
+fitfam: 3 kere
+fitlife: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: john10
+İlgi Alanı: food
+Ortak Kelimeler:
+delicious: 4 kere
+thank: 2 kere
+foodie: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: igardner
+İlgi Alanı: nature
+Ortak Kelimeler:
+wildlife: 4 kere
+outdoors: 3 kere
+naturelover: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: angelicapreston
+İlgi Alanı: sciencefiction
+Ortak Kelimeler:
+futureworld: 5 kere
+spaceadventure: 3 kere
+collection: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: angelaray
+İlgi Alanı: nature
+Ortak Kelimeler:
+naturelover: 5 kere
+wildlife: 2 kere
+outdoors: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: tylerlong
+İlgi Alanı: fitness
+Ortak Kelimeler:
+wellness: 4 kere
+healthyliving: 3 kere
+she: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: sarah09
+İlgi Alanı: cooking
+Ortak Kelimeler:
+foodgasm: 3 kere
+homechef: 2 kere
+cookingathome: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: anthonyfritz
+İlgi Alanı: travel
+Ortak Kelimeler:
+adventure: 3 kere
+vacation: 2 kere
+wanderlust: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: kimberly05
+İlgi Alanı: architecture
+Ortak Kelimeler:
+architecturelovers: 6 kere
+modernarchitecture: 3 kere
+garden: 1 kere
+--------------------------------------------------
+Kullanıcı Adı: qbryan
+İlgi Alanı: art
+Ortak Kelimeler:
+artgallery: 3 kere
+artistic: 3 kere
+artlovers: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: alex17
+İlgi Alanı: science
+Ortak Kelimeler:
+scientists: 4 kere
+discoveries: 2 kere
+economic: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: mary85
+İlgi Alanı: selfcare
+Ortak Kelimeler:
+wellbeing: 3 kere
+mindfulness: 3 kere
+which: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: troytanner
+İlgi Alanı: cooking
+Ortak Kelimeler:
+culinaryart: 4 kere
+cookingathome: 2 kere
+owner: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: gonzalezandrea
+İlgi Alanı: movies
+Ortak Kelimeler:
+filmlover: 5 kere
+movement: 2 kere
+team: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: krystal94
+İlgi Alanı: food
+Ortak Kelimeler:
+culinary: 3 kere
+need: 2 kere
+delicious: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: marissatate
+İlgi Alanı: cooking
+Ortak Kelimeler:
+culinaryart: 4 kere
+cookingadventures: 2 kere
+cookingathome: 2 kere
+--------------------------------------------------
+Kullanıcı Adı: umoody
+İlgi Alanı: gaming
+Ortak Kelimeler:
+gamerlife: 4 kere
+gamingsetup: 3 kere
+should: 2 kere
+--------------------------------------------------
