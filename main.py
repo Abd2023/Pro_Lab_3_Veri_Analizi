@@ -17,7 +17,7 @@ import Kullanici_sinifi
 import Veri_Yapilari
 
 
-file_path = 'C:/Users/Abdullah Amin/PycharmProjects/pythonProject/100data.json'
+file_path = 'C:/Users/Abdullah Amin/PycharmProjects/pythonProject/datalar_olan_klasor/500data.json'
 
 with open(file_path, 'r', encoding='utf-8') as json_file:
     data = json.load(json_file)
@@ -299,7 +299,7 @@ def find_common_interest_followers(user_dict, user1, user2, topic_hashtags):
             print("-" * 30)
 
 
-print("\n\n 6- Belirli iki kullanıcının takipçilerinden ilgi alanına göre filtreleme yapılarak ortak ilgi alanına sahip kullanıcılar litelenmek için : ")
+print("\n\n 6- Belirli iki kullanıcının takipçilerinden ilgi alanına göre filtreleme yapılarak ortak ilgi alanına sahip kullanıcılar listelenmek için : ")
 user1 = input("İlk kullanıcının adını girin: ")
 user2 = input("İkinci kullanıcının adını girin: ")
 
@@ -311,7 +311,13 @@ def create_interest_analysis_report(user_dict, topic_hashtags, output_file):
         for username, user in user_dict.items():
             interests = find_user_interests_2_(username, user_dict, topic_hashtags)
             report_file.write(f"Kullanıcı Adı: {username}\n")
-            report_file.write(f"İlgi Alanı: {''.join(interests)}\n")
+
+            if interests is not None and hasattr(interests, '__iter__'):
+                report_file.write(f"İlgi Alanı: {''.join(interests)}\n")
+            elif interests is not None:
+                report_file.write(f"İlgi Alanı: {interests}\n")
+            else:
+                report_file.write("İlgi Alanı: Belirlenemedi\n")
 
             # Count common words among the user's tweets
             common_words_counter = Counter()
@@ -326,10 +332,11 @@ def create_interest_analysis_report(user_dict, topic_hashtags, output_file):
                     report_file.write(f"{word}: {count} kere\n")
 
             hashtag_details = []
-            for interest in interests:
-                if interest in topic_hashtags:
-                    hashtags = topic_hashtags[interest]
-                    hashtag_details.append(f"{interest}: {', '.join(hashtags)}")
+            if interests is not None:  # Add this line
+                for interest in interests:
+                    if interest in topic_hashtags:
+                        hashtags = topic_hashtags[interest]
+                        hashtag_details.append(f"{interest}: {', '.join(hashtags)}")
 
             if hashtag_details:
                 report_file.write("\nİlgi Alanlarına Ait Hashtagler:\n")
@@ -342,3 +349,7 @@ def create_interest_analysis_report(user_dict, topic_hashtags, output_file):
 output_file_path = 'ilgi_analiz_raporu.txt'
 create_interest_analysis_report(user_dict, topic_hashtags, output_file_path)
 print(f"Ve en son da İlgi analiz raporu başarıyla oluşturuldu ve '{output_file_path}' adlı dosyaya kaydedildi.")
+
+
+
+# denemek için yorum satiri
